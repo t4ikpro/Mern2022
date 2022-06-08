@@ -32,3 +32,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+---- GITHUB ----
+U artinya Untracked adalah file yang belum pernah dimasukkan ke dalam Git (file baru).
+M artinya Modified adalah file yang sudah dimasukkan ke dalam database Git dan sudah pernah dimodifikasi.
+D artinya Deleted adalah file yang dihapus.
+A artinya Added adalah file yang ditambahkan ke dalam mode staged.
