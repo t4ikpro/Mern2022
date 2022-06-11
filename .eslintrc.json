@@ -23,6 +23,7 @@
     "react/react-in-jsx-scope": "off",
     "react/jsx-indent": "off",
     "react/jsx-one-expression-per-line": "off",
+    "jsx-ally/anchor-is-valid": "off",
     "react/jsx-props-no-spreading": [<enabled>, {
     "html": "ignore" | "enforce",
     "custom": "ignore" | "enforce",
